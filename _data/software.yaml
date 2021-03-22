@@ -1,0 +1,20 @@
+- title: "Framework:"
+  projects:
+    - name: HDI-Project/ballet
+      url: >-
+        <a href="https://github.com/HDI-Project/ballet"><img src="https://gh-card.dev/repos/HDI-Project/ballet.svg"></a>
+    - name: HDI-Project/ballet-assemble
+      url: >-
+        <a href="https://github.com/HDI-Project/ballet-assemble"><img src="https://gh-card.dev/repos/HDI-Project/ballet-assemble.svg"></a>
+    - name: HDI-Project/ballet-bot
+      url: >-
+        <a href="https://github.com/HDI-Project/ballet-bot"><img src="https://gh-card.dev/repos/HDI-Project/ballet-bot.svg"></a>
+
+- title: "Projects:"
+  projects:
+    - name: HDI-Project/ballet-predict-house-prices
+      url: >-
+        <a href="https://github.com/HDI-Project/ballet-predict-house-prices"><img src="https://gh-card.dev/repos/HDI-Project/ballet-predict-house-prices.svg"></a>
+    - name: HDI-Project/ballet-predict-census-income
+      url: >-
+        <a href="https://github.com/HDI-Project/ballet-predict-census-income"><img src="https://gh-card.dev/repos/HDI-Project/ballet-predict-census-income.svg"></a>

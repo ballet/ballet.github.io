@@ -1,0 +1,16 @@
+- name: Micah Smith
+  image: micah.jpg
+  title: Project Lead
+  info: PhD Student, MIT
+- name: Jürgen Cito
+  image: jurgen.jpg
+  title: Assistant Professor, TU Wien
+  info: 
+- name: Kelvin Lu
+  image: kelvin.png
+  title: MEng, MIT
+  info:
+- name: Kalyan Veeramachaneni
+  image: kalyan.jpg
+  title: Principle Investigator, MIT
+  info:

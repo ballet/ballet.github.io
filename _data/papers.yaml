@@ -1,0 +1,12 @@
+- name: Ballet core (arXiv and then CSCW)
+  image: arxiv_2020_ballet.png
+  url: "https://arxiv.org/abs/2012.07816"
+- name: Ballet assemble paper (CHI LBW)
+  image:
+  url: 
+- name: Ballet demo (MLSys)
+  image: mlsysdemo_2020_ballet.png
+  url: "https://www.micahsmith.com/files/balletdemo_mlsys2020.pdf"
+- name: Ballet prototype (NeurIPS)
+  image: neuripsworkshop_2018_ballet.png
+  url: "http://learningsys.org/nips18/assets/papers/15CameraReadySubmissionneurips_sysml_2018-8.pdf"

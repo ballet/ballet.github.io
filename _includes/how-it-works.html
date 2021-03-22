@@ -1,0 +1,31 @@
+<span id="how-it-works"></span>
+<section class="py-5 bg-light">
+  <div class="container">
+    {% include heading.html title="How It Works" %}
+    <div class="row flex-wrap justify-content-xl-between justify-content-center">
+      {% for item in site.data.how-it-works %}
+      <div class="col-auto my-4">
+        <div class="flip-card rounded">
+          <div class="flip-card-inner">
+            <div class="flip-card-front p-3 ">
+              <div class="align-items-stretch d-flex flex-column h-100">
+                <div>
+                  <h3 class="h4 font-weight-light">{{ item.name }}</h3>
+                </div>
+                <div class="outer is-square">
+                  <div class="inner d-flex flex-column justify-content-center align-items-center">
+                    <img src="/images/{{ forloop.index plus: 1}} - {{ item.name }}.png" alt="{{ item.title }}" class="d-block mw-100 mh-100">
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="flip-card-back p-3">
+              <p class="description">{{ item.description }}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

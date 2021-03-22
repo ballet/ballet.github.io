@@ -1,0 +1,24 @@
+- name: Create project
+  image: /image/
+  description: >-
+    A maintainer with a dataset wants to mobilize the power of the data science crowd to solve a predictive modeling task. They use the Ballet CLI to render a new project from a provided template and push to GitHub. At first, the project contains a usable, if at first empty, feature engineering pipeline, with an invitation to contribute.
+- name: Develop features
+  image: /image/
+  description: >-
+    A developer interested in the project is tasked with defining individual Feature objects, the unit of contribution defined by Ballet for this project. They can launch the project in Assemblé, a custom development environment built on Binder and JupyterLab. Ballet’s high-level b client automatically detects the project configuration and supports them in exploring the data, developing candidate feature definitions, and validating them within their messy notebook, surfacing API and ML performance issues right away. Once they are satisfied, they can submit the feature definition alone by selecting the code cell and using Assemblé’s submit button.
+- name: Structured contributions
+  image: /image/
+  description: >-
+    The selected code is automatically extracted and processed as a pull request following the project structure imposed by Ballet.
+- name: Automatic validation
+  image: /image/
+  description: >-
+    Ballet runs a battery of both unit and statistical tests to validate this one feature from a feature API and ML performance standpoint.
+- name: Continuous delivery
+  image: /image/
+  description: >-
+    Features that validate successfully can be automatically and safely merged by a bot.
+- name: Pipeline usage
+  image: /image/
+  description: >-
+    The framework will now collect and compose this new feature into a feature engineering pipeline that can be used by the community for modeling of their own raw data. Due to continuous delivery, the pipeline can be installed from the default branch and always engineers high-quality features.

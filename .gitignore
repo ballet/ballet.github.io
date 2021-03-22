@@ -1,0 +1,4 @@
+node_modules/*
+bootstrap-vars.scss
+/_site
+.DS_Store

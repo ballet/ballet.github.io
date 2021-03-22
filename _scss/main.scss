@@ -1,0 +1,39 @@
+/* Bootstrap */
+// Custom.scss
+// Option B: Include parts of Bootstrap
+
+// Required
+
+$dark:          #565757;
+$warning:          #FADD36;
+$light:          #F9FAFA;
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+// @import "../node_modules/bootstrap/scss/functions";
+// @import "../node_modules/bootstrap/scss/variables";
+// @import "../node_modules/bootstrap/scss/mixins";
+
+@import "vars/custom";
+
+
+// Optional
+
+/* Global */
+@import "base/global";
+@import "base/bg";
+@import "base/object";
+
+/* Page */
+@import "pages/home-page";
+
+/* Layout */
+@import "layout/header";
+@import "layout/page";
+@import "layout/footer";
+
+/* Components */
+@import "components/navbar";
+
+/* Typography */
+@import "typography/font-face";
+@import "typography/font-family";
