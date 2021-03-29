@@ -6,9 +6,9 @@
     - name: ballet/ballet-assemble
       url: >-
         <a href="https://github.com/ballet/ballet-assemble"><img src="https://gh-card.dev/repos/ballet/ballet-assemble.svg"></a>
-    - name: HDI-Project/ballet-bot
+    - name: ballet/ballet-bot
       url: >-
-        <a href="https://github.com/HDI-Project/ballet-bot"><img src="https://gh-card.dev/repos/HDI-Project/ballet-bot.svg"></a>
+        <a href="https://github.com/ballet/ballet-bot"><img src="https://gh-card.dev/repos/ballet/ballet-bot.svg"></a>
 
 - title: "Projects:"
   projects:
