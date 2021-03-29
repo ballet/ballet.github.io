@@ -1,8 +1,8 @@
 - title: "Framework:"
   projects:
-    - name: HDI-Project/ballet
+    - name: ballet/ballet
       url: >-
-        <a href="https://github.com/HDI-Project/ballet"><img src="https://gh-card.dev/repos/HDI-Project/ballet.svg"></a>
+        <a href="https://github.com/ballet/ballet"><img src="https://gh-card.dev/repos/ballet/ballet.svg"></a>
     - name: ballet/ballet-assemble
       url: >-
         <a href="https://github.com/ballet/ballet-assemble"><img src="https://gh-card.dev/repos/ballet/ballet-assemble.svg"></a>
