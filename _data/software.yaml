@@ -3,9 +3,9 @@
     - name: HDI-Project/ballet
       url: >-
         <a href="https://github.com/HDI-Project/ballet"><img src="https://gh-card.dev/repos/HDI-Project/ballet.svg"></a>
-    - name: HDI-Project/ballet-assemble
+    - name: ballet/ballet-assemble
       url: >-
-        <a href="https://github.com/HDI-Project/ballet-assemble"><img src="https://gh-card.dev/repos/HDI-Project/ballet-assemble.svg"></a>
+        <a href="https://github.com/ballet/ballet-assemble"><img src="https://gh-card.dev/repos/ballet/ballet-assemble.svg"></a>
     - name: HDI-Project/ballet-bot
       url: >-
         <a href="https://github.com/HDI-Project/ballet-bot"><img src="https://gh-card.dev/repos/HDI-Project/ballet-bot.svg"></a>
