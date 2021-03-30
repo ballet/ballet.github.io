@@ -1,9 +1,9 @@
-- name: Ballet core (arXiv and then CSCW)
+- name: Ballet paper (arXiv)
   image: arxiv_2020_ballet.png
   url: "https://arxiv.org/abs/2012.07816"
-- name: Ballet assemble paper (CHI LBW)
-  image:
-  url: 
+- name: Assemble paper (arXiv)
+  image: arxiv_2021_assemble.png
+  url: "https://arxiv.org/abs/2103.15787"
 - name: Ballet demo (MLSys)
   image: mlsysdemo_2020_ballet.png
   url: "https://www.micahsmith.com/files/balletdemo_mlsys2020.pdf"
