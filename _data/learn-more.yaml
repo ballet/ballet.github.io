@@ -1,12 +1,12 @@
-- name: 
+- name:
   description: What is feature engineering?
-  link: https://hdi-project.github.io/ballet/feature_engineering_guide.html
-- name: 
+  link: https://ballet.github.io/ballet/feature_engineering_guide.html
+- name:
   description: How do I start a new project?
-  link: https://hdi-project.github.io/ballet/maintainer_guide.html
-- name: 
+  link: https://ballet.github.io/ballet/maintainer_guide.html
+- name:
   description: How do I contribute to a project?
-  link: https://hdi-project.github.io/ballet/contributor_guide.html
-- name: 
+  link: https://ballet.github.io/ballet/contributor_guide.html
+- name:
   description: I'm ready to go, what project can I contribute to right now?
   link: https://github.com/HDI-Project/ballet-predict-house-prices
