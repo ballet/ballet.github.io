@@ -5,10 +5,14 @@
 - name: Jürgen Cito
   image: jurgen.jpg
   title: Assistant Professor, TU Wien
-  info: 
+  info:
 - name: Kelvin Lu
   image: kelvin.png
   title: MEng, MIT
+  info:
+- name: Andrea Ortner
+  image: andrea.jpg
+  title: Undergraduate Researcher, TU Wien
   info:
 - name: Kalyan Veeramachaneni
   image: kalyan.jpg
