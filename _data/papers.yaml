@@ -1,6 +1,6 @@
-- name: Ballet paper (arXiv)
-  image: arxiv_2020_ballet.png
-  url: "https://arxiv.org/abs/2012.07816"
+- name: Ballet paper (CSCW)
+  image: cscw_2021_ballet.png
+  url: "https://dl.acm.org/doi/10.1145/3479575"
 - name: Assemble paper (arXiv)
   image: arxiv_2021_assemble.png
   url: "https://arxiv.org/abs/2103.15787"

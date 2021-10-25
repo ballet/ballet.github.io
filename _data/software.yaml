@@ -12,12 +12,12 @@
 
 - title: "Projects:"
   projects:
-    - name: HDI-Project/ballet-predict-house-prices
+    - name: ballet/predict-house-prices
       url: >-
-        <a href="https://github.com/HDI-Project/ballet-predict-house-prices"><img src="https://gh-card.dev/repos/HDI-Project/ballet-predict-house-prices.svg"></a>
-    - name: HDI-Project/ballet-predict-census-income
+        <a href="https://github.com/ballet/predict-house-prices"><img src="https://gh-card.dev/repos/ballet/predict-house-prices.svg"></a>
+    - name: ballet/predict-census-income
       url: >-
-        <a href="https://github.com/HDI-Project/ballet-predict-census-income"><img src="https://gh-card.dev/repos/HDI-Project/ballet-predict-census-income.svg"></a>
-    - name: HDI-Project/ballet-fragile-families
+        <a href="https://github.com/ballet/predict-census-income"><img src="https://gh-card.dev/repos/ballet/predict-census-income.svg"></a>
+    - name: ballet/predict-life-outcomes
       url: >-
-        <a href="https://github.com/HDI-Project/ballet-fragile-families"><img src="https://gh-card.dev/repos/HDI-Project/ballet-fragile-families.svg"></a>
+        <a href="https://github.com/ballet/predict-life-outcomes"><img src="https://gh-card.dev/repos/ballet/predict-life-outcomes.svg"></a>
